@@ -1,13 +1,16 @@
 {
   "components": [
-      "Main",
-      "Child",
-      "ExamplePage",
-      "WelcomePage",
-      "Page"
+    "Main",
+    "Child",
+    "Form",
+    "AdvancedStrings",
+    "Promise",
+    "ExamplePage",
+    "WelcomePage",
+    "Page"
   ],
   "component_path": "components",
   "entry_component": "Main",
   "root_element_id": "root",
   "image_path": "/img/"
-}
+ }
